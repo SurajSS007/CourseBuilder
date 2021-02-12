@@ -45,7 +45,6 @@ app.get('hi',(req,res)=>{
   res.send("hii")
 })
 
-
 //  setting router 
 app.use('/user',user);        
 app.use('/course',course);
