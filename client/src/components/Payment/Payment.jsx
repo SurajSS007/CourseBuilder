@@ -18,7 +18,6 @@ function Payment() {
             return val
         }
     }
-
     function buildForm({ action, params }) {
         const form = document.createElement('form')
         form.setAttribute('method', 'post')

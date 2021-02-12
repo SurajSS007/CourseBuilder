@@ -4,7 +4,7 @@ function AboutUs() {
 
   return (
     <div>
-            <h1 style={{ "color": 'Highlight', "fontFamily": 'fantasy' }}>COURSEBUILDER</h1>
+          <h1 style={{ "color": 'Highlight', "fontFamily": 'fantasy' }}>COURSEBUILDER</h1>
 
       <Image src="https://cdn.pixabay.com/photo/2016/05/04/07/56/businessman-1370983_960_720.jpg" rounded style={{ "width": "100%",'height':'550px' }} />
       <Container>
